@@ -1,2 +1,14 @@
 # fixturejiangnan-pages
-HTML page archive and documentation
+
+自动页面托管记录
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
